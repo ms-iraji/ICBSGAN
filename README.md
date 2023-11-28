@@ -43,7 +43,7 @@ To use the ICBSGAN algorithm, follow these steps:
 
 ## Results
 
- The proposed approach achieves notable improvements in error rate from 2.87 to 1.47 on MNIST, 3.89 to 3.13 on SVHN, and 15.48 to 9.59 on CIFAR-10 using 1000 labeled training images. Additionally, it reduces the error rate from 22.11 to 18.40 on CINIC-10 when using 700 labeled images per class.  For detailed results, please refer to the [Results](#results) section in the paper.
+ Experimental evaluations on the CIFAR-10, CINIC-10, MNIST, and SVHN datasets showcase the effectiveness of ICBSGAN compared to the state-of-the-art methods. The proposed approach achieves notable improvements in error rate from 2.87 to 1.47 on MNIST, 3.89 to 3.13 on SVHN, and 15.48 to 9.59 on CIFAR-10 using 1000 labeled training images. Additionally, it reduces the error rate from 22.11 to 18.40 on CINIC-10 when using 700 labeled images per class.  For detailed results, please refer to the [Results](#results) section in the paper.
 
 
 ## Contributing
