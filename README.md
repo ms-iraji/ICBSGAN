@@ -1,5 +1,5 @@
-# ICBSGAN
-A Novel Interpolation Consistency for Bad Semi-Supervised Generative Adversarial Networks (ICBSGAN) in Image Classification and Interperation 
+# IC-BGAN
+ A Novel Interpolation Consistency for Bad Generative Adversarial Networks (IC-BGANs) 
 
 ## Table of Contents
 - [Authors](#authors)
