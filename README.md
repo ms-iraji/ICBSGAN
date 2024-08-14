@@ -1,5 +1,5 @@
 # IC-BGAN
- A Novel Interpolation Consistency for Bad Generative Adversarial Networks (IC-BGANs) 
+ A Novel Interpolation Consistency for Bad Generative Adversarial Networks (IC-BGAN) 
 
 ## Table of Contents
 - [Authors](#authors)
